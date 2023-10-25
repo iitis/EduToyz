@@ -1,0 +1,1 @@
+0: "zebra", 1: "uszatek", 2: "teddy", 3: "boat", 4: "dozer", 5: "bear"
